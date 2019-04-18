@@ -1,0 +1,27 @@
+# Created at 2019-04-17T20:43:46.520
+[AppClassLoader@2626b418] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2019-04-17T20:43:46.536
+[AppClassLoader@2626b418] error at io\qameta\allure\aspects\AttachmentsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2019-04-17T20:43:51.935
+[AppClassLoader@2626b418] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+
+# Created at 2019-04-17T20:44:05.855
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-04-17T20:44:05.856
+WARNING: Illegal reflective access by org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor (file:/C:/Users/pau4ok/.m2/repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created at 2019-04-17T20:44:05.857
+WARNING: Please consider reporting this to the maintainers of org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor
+
+# Created at 2019-04-17T20:44:05.858
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-04-17T20:44:05.859
+WARNING: All illegal access operations will be denied in a future release
+
+# Created at 2019-04-17T20:44:05.911
+[AppClassLoader@2626b418] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+

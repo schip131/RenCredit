@@ -1,0 +1,1 @@
+{"uuid":"9bc8b1ff-688b-4754-85f9-715b4efd957c","name":"ru.rencredit.RenTest.close","description":"","start":1555406955933,"stop":1555406957057,"children":["78fbee0c-39dc-493b-969b-e6c6ca87e7d3"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1555406955933,"stop":1555406957057}]}
